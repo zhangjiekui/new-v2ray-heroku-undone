@@ -4,6 +4,9 @@ http://wxhp.org/9396.html
 https://xlesun.com/v2ray-1.html
 https://github.com/v2ray/v2ray-core/releases
 
+账号：https://fangeqiang.com/815.html   https://free-ss.site/
+
+
 
 # 一键部署 v2ray 到 heroku  
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
